@@ -1,0 +1,56 @@
+body{
+    background-color:#c9bfbf;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+.container{
+    text-align: center;
+    padding: 0;
+    border:none;
+    margin-top: 2rem;
+}
+.container table{
+    border: 1px solid rgb(120, 117, 117); ;
+    margin: auto;
+    background-color: black;
+    margin-top: -5.1px;
+}
+.container .inpt {
+    font-size: 1.3rem;
+    font-weight: 9px;
+    height: 3.4rem;
+    width:15.1rem;
+    border: none;
+    margin-bottom: -30px;
+}
+.container #btn{
+    margin-left: -2.5px;
+    height: 4rem;
+    width: 3.9rem;
+    border: none;
+    color: white;
+    background-color: #04AA6D;
+}
+button{
+    border: none;
+    height: 45px;
+    width: 77.1px;
+    font-size: 1rem;
+    line-height: 2rem;
+    color: white;
+    background-color: black;
+    margin-bottom: 10px;
+    white-space: nowrap;
+    float: left;
+    cursor: pointer;
+}
+.container .operator{
+    background-color: #736e6e;
+    width: 3.9rem;
+    height:3.80rem;
+    margin-right:-2px;
+    margin-bottom: -21px;
+    margin-top: -20px;
+}
